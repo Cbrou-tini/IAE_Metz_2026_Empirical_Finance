@@ -4,4 +4,6 @@ Projet IAE Metz
 
 Prediction de Futures du Mais en t+20 avec un modèle multimodal en utilisant des données Open source. 
 
+Sources et sources des données dans le fichier DATA, Le code dans le ficher Script.
+
 Réaliser en partie avec mon camarade @mathiswinkler57-arch

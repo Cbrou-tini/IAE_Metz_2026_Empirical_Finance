@@ -1,4 +1,11 @@
+## CNNs
+
 Convolutional Neural Networks - CS 230 - By Afshine Amidi and Shervine Amidi - Stanford University
+
+## ML & Corn
+
 Estimating the impact of weather on Cbot corn futures prices using machine learning - Sriramjee Singh - Iowa State University
+
+## ML Finance and Images
 Thaker A, Chan LH, Sonner D. Forecasting Agriculture Commodity Futures Prices with Convolutional Neural Networks with Application to Wheat Futures. Journal of Risk and Financial Management. 2024; 17(4):143. https://doi.org/10.3390/jrfm17040143
 BO-CNN-BiLSTM deep learning model integrating multisource remote sensing data for improving winter wheat yield estimation - Lei Zhang Changchun Li Xifang Wu Xifang Wu Hengmao Xiang Hengmao Xiang Yinghua Jiao Yinghua Jiao Huabin Chai Huabin - Front. Plant Sci., 20 December 2024 - Sec. Crop and Product Physiology Volume 15 - 2024 | https://doi.org/10.3389/fpls.2024.1500499
